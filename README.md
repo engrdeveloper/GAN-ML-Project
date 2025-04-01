@@ -4,7 +4,7 @@ This is a simple Jupyter Notebook project set up in Ubuntu.
 
 ## Setup Instructions
 
-Clone the repository: git clone <your-repo-url>
+Clone the repository: git clone https://github.com/engrdeveloper/GAN-ML-Project
 
 ## Create and activate a virtual environment
 python3 -m venv venv
